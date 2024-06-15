@@ -1,0 +1,22 @@
+body{
+  background-image: url(abc.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+div{
+    font-size: 100px;
+   }
+  div hr{
+    font-size: 3px;
+  }
+   p{
+    font-size: 15px;
+    font-family: cursive;
+  }
+ #aab{
+font-size: 20px;
+ }
